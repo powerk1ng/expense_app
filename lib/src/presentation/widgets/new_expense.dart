@@ -1,4 +1,4 @@
-import 'package:expense_app/src/data/models/expense.dart';
+import 'package:expense_app/src/models/expense.dart';
 import 'package:flutter/material.dart';
 
 class NewExpense extends StatefulWidget {
